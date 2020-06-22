@@ -1,0 +1,10 @@
+spectapir builds upon the work of the following persons' or
+companies' code, either through static or dynamic linking:
+
+pulseaudio - http://pulseaudio.org/ - GPLv3
+
+Despite our best efforts, this list of copyright notices
+might not be complete or up-to-date.
+If you feel that some foreign work did not receive proper
+credit here, please file an issue at
+https://github.com/krachzack/spectapir/issues
